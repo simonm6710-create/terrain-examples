@@ -1,1 +1,1 @@
-# ecs-website-starter
+# Examples of three methods of terrain generation
