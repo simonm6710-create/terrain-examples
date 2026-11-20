@@ -13,3 +13,7 @@ p {
 hr {
   background-color: white;
 }
+
+.offset {
+  margin-left: 100px;
+}
