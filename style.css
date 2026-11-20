@@ -26,3 +26,7 @@ nav {
   left: 0;
   background-color: #1c1c21;
 }
+
+nav a {
+  display: block;
+}
